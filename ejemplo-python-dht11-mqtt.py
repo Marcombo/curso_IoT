@@ -3,7 +3,7 @@ import board
 import adafruit_dht
 from paho.mqtt import client as mqtt_client
 
-broker = 'ferranfabregas.me'
+broker = 'xxxx'
 port = 1883
 topic_temp = "temp"
 topic_hum = "hum"
